@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Temperatura {
+public class Picosenergia {
     public static void main(String[] args) {
         Double energia[] = new Double[10];
         double quant = 0;
